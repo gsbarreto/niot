@@ -1,0 +1,137 @@
+...
+WiFi connected!
+IP: 192.168.0.38
+
+HTTP server started
+Request Number: 1 Temp: 30.00 Humi: 43.00
+Server receiver request on /led
+Request Number: 2 Temp: 29.90 Humi: 42.00
+Server receiver request on /led
+Request Number: 3 Temp: 29.80 Humi: 40.00
+Request Number: 4 Temp: 29.60 Humi: 40.00
+Request Number: 5 Temp: 29.60 Humi: 41.00
+Server receiver request on /led
+Request Number: 6 Temp: 29.50 Humi: 41.00
+Server receiver request on /led
+Request Number: 7 Temp: 29.60 Humi: 41.00
+Server receiver request on /led
+Request Number: 8 Temp: 33.50 Humi: 33.00
+Server receiver request on /led
+Request Number: 9 Temp: 32.10 Humi: 35.00
+Server receiver request on /led
+Request Number: 10 Temp: 31.20 Humi: 36.00
+Server receiver request on /led
+Request Number: 11 Temp: 30.40 Humi: 38.00
+Request Number: 12 Temp: 30.10 Humi: 39.00
+Request Number: 13 Temp: 29.80 Humi: 39.00
+Request Number: 14 Temp: 29.80 Humi: 39.00
+Request Number: 15 Temp: 29.70 Humi: 40.00
+Request Number: 16 Temp: 29.60 Humi: 40.00
+Request Number: 17 Temp: 29.60 Humi: 40.00
+Request Number: 18 Temp: 29.60 Humi: 41.00
+Server receiver request on /led
+Request Number: 19 Temp: 29.60 Humi: 40.00
+Request Number: 20 Temp: 29.50 Humi: 40.00
+Request Number: 21 Temp: 29.40 Humi: 41.00
+Server receiver request on /led
+Request Number: 22 Temp: 29.40 Humi: 41.00
+Server receiver request on /led
+Request Number: 23 Temp: 29.50 Humi: 41.00
+Server receiver request on /led
+Request Number: 24 Temp: 29.40 Humi: 41.00
+Server receiver request on /led
+Request Number: 25 Temp: 29.30 Humi: 41.00
+Server receiver request on /led
+Request Number: 26 Temp: 29.30 Humi: 41.00
+Server receiver request on /led
+Request Number: 27 Temp: 29.30 Humi: 42.00
+Server receiver request on /led
+Request Number: 28 Temp: 29.30 Humi: 42.00
+Server receiver request on /led
+Request Number: 29 Temp: 29.30 Humi: 42.00
+Server receiver request on /led
+Request Number: 30 Temp: 29.30 Humi: 42.00
+Server receiver request on /led
+Request Number: 31 Temp: 29.30 Humi: 42.00
+Server receiver request on /led
+Request Number: 32 Temp: 29.30 Humi: 42.00
+Server receiver request on /led
+Request Number: 33 Temp: 29.30 Humi: 42.00
+Server receiver request on /led
+Request Number: 34 Temp: 29.30 Humi: 43.00
+Server receiver request on /led
+Request Number: 35 Temp: 29.30 Humi: 42.00
+Server receiver request on /led
+Request Number: 36 Temp: 29.20 Humi: 42.00
+Server receiver request on /led
+Request Number: 37 Temp: 29.30 Humi: 43.00
+Server receiver request on /led
+Request Number: 38 Temp: 29.20 Humi: 43.00
+Server receiver request on /led
+Request Number: 39 Temp: 29.20 Humi: 42.00
+Server receiver request on /led
+Request Number: 40 Temp: 29.20 Humi: 43.00
+Server receiver request on /led
+Request Number: 41 Temp: 29.30 Humi: 44.00
+Server receiver request on /led
+Request Number: 42 Temp: 29.30 Humi: 43.00
+Server receiver request on /led
+Request Number: 43 Temp: 29.20 Humi: 44.00
+Server receiver request on /led
+Request Number: 44 Temp: 29.20 Humi: 43.00
+Server receiver request on /led
+Request Number: 45 Temp: 29.20 Humi: 43.00
+Server receiver request on /led
+Request Number: 46 Temp: 29.10 Humi: 43.00
+Server receiver request on /led
+Request Number: 47 Temp: 29.10 Humi: 44.00
+Server receiver request on /led
+Request Number: 48 Temp: 29.20 Humi: 43.00
+Server receiver request on /led
+Request Number: 49 Temp: 30.00 Humi: 42.00
+Server receiver request on /led
+Request Number: 50 Temp: 32.70 Humi: 35.00
+Server receiver request on /led
+Request Number: 51 Temp: 37.00 Humi: 26.00
+Server receiver request on /led
+Request Number: 52 Temp: 33.20 Humi: 35.00
+Server receiver request on /led
+Request Number: 53 Temp: 31.70 Humi: 37.00
+Server receiver request on /led
+Request Number: 54 Temp: 30.80 Humi: 38.00
+Request Number: 55 Temp: 30.50 Humi: 39.00
+Request Number: 56 Temp: 30.20 Humi: 40.00
+Request Number: 57 Temp: 30.10 Humi: 41.00
+Server receiver request on /led
+Request Number: 58 Temp: 30.00 Humi: 41.00
+Server receiver request on /led
+Request Number: 59 Temp: 30.00 Humi: 41.00
+Server receiver request on /led
+Request Number: 60 Temp: 29.90 Humi: 42.00
+Server receiver request on /led
+Request Number: 61 Temp: 29.80 Humi: 41.00
+Server receiver request on /led
+Request Number: 62 Temp: 29.80 Humi: 42.00
+Server receiver request on /led
+Request Number: 63 Temp: 29.60 Humi: 42.00
+Server receiver request on /led
+Request Number: 64 Temp: 29.50 Humi: 42.00
+Server receiver request on /led
+Request Number: 65 Temp: 29.30 Humi: 43.00
+Server receiver request on /led
+Request Number: 66 Temp: 29.30 Humi: 42.00
+Server receiver request on /led
+Request Number: 67 Temp: 29.30 Humi: 42.00
+Server receiver request on /led
+Request Number: 68 Temp: 29.10 Humi: 43.00
+Server receiver request on /led
+Request Number: 69 Temp: 29.20 Humi: 43.00
+Server receiver request on /led
+Request Number: 70 Temp: 29.30 Humi: 43.00
+Server receiver request on /led
+Request Number: 71 Temp: 29.20 Humi: 43.00
+Server receiver request on /led
+Request Number: 72 Temp: 29.10 Humi: 43.00
+Server receiver request on /led
+Request Number: 73 Temp: 29.10 Humi: 44.00
+Server receiver request on /led

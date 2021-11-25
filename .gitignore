@@ -1,0 +1,17 @@
+/back/node_modules
+/back/node_modules/*
+/back/.dockerignore
+/back/.env
+/back/Dockerfile
+/back/fly.toml
+/back/package-lock.json
+
+/front/node_modules
+/front/node_modules/*
+/front/build
+/front/.dockerignore
+/front/.env
+/front/Dockerfile
+/front/fly.toml
+/front/package-lock.json
+
